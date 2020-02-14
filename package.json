@@ -1,0 +1,22 @@
+{
+  "name": "qawolf-example-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZlydeTJ/qawolf-example-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZlydeTJ/qawolf-example-tests/issues"
+  },
+  "homepage": "https://github.com/ZlydeTJ/qawolf-example-tests#readme",
+  "dependencies": {
+    "qawolf": "^0.9.2"
+  }
+}
